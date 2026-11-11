@@ -1,0 +1,31 @@
+NORTHSTAR SOLUTIONS – IT SERVICE DESK KNOWLEDGE BASE
+Document ID: IT-KB-014
+Last reviewed: 20 October 2026
+
+TOPIC: VPN CONNECTION ISSUES
+Employees who cannot connect to the company VPN should first confirm that their
+internet connection is active. They should then restart the VPN client and sign in
+using their company username and multi-factor authentication. If the issue continues,
+they should capture the error message and contact the IT Help Desk.
+
+TOPIC: PASSWORD RESET
+Employees can reset their password through the self-service identity portal.
+A password must contain at least 12 characters and should not reuse any of the
+previous five passwords. If the employee cannot access the identity portal, the
+IT Help Desk can verify the employee's identity and assist with account recovery.
+
+TOPIC: LAPTOP SECURITY
+Company laptops must use full-disk encryption and automatic screen locking.
+Employees should lock their screens whenever they leave their desks. A lost or
+stolen device must be reported immediately so that IT can revoke active sessions
+and begin the device response process.
+
+TOPIC: SOFTWARE INSTALLATION
+Employees should request business software through the approved software catalogue.
+Local administrator access is not provided by default. IT reviews requests for
+licensing, security, and compatibility before approving installation.
+
+TOPIC: SERVICE DESK HOURS
+The standard IT Help Desk hours are Monday to Friday, 8:00 AM to 7:00 PM IST.
+Critical security incidents are monitored outside these hours through the on-call
+security response process.

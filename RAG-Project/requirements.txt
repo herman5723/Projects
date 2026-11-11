@@ -1,0 +1,8 @@
+pypdf
+python-docx
+pandas
+numpy
+chromadb
+sentence-transformers
+google-genai
+jupyter
